@@ -1,4 +1,4 @@
-AURA: AI Voice Assistant with GUI
+##AURA: AI Voice Assistant with GUI
 
 **AURA** is a sleek AI voice/text assistant application built using Python, CustomTkinter, and Groq LLM. It supports natural language understanding, speech recognition, text-to-speech, image analysis, and weather reporting, all wrapped in a beautiful dark/light mode GUI.
 
@@ -13,7 +13,7 @@ AURA: AI Voice Assistant with GUI
 * 📚 PDF export of AI responses
 * 📃 Side menu with chat history, save, and theme toggle options
 
----
+
 
 🚀 Getting Started
 
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 bash
 python Main.py
 
----
+
 
 📂 Project Structure
 .
@@ -68,7 +68,7 @@ python Main.py
 * **Image Captioning:** Replicate + Salesforce BLIP
 * **Weather API:** OpenWeatherMap
 
----
+
 🚀 Planned Features
 
 * 🔹 Drag & drop for images
@@ -76,13 +76,13 @@ python Main.py
 * 🔹 More advanced weather visuals (icons, forecasts)
 * 🔹 Real-time translation between languages
 
----
+
 
 💼 License
 
 This project is open-source under the MIT License. Feel free to fork, modify, and contribute.
 
----
+
 
 👨‍💻 Author
 
