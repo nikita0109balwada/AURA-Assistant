@@ -1,0 +1,10 @@
+openai
+speechrecognition
+groq
+gtts
+pillow
+langdetect
+tkinter
+replicate
+fpdf
+customtkinter
