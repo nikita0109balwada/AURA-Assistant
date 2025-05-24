@@ -1,4 +1,4 @@
-##AURA: AI Voice Assistant with GUI
+AURA: AI Voice Assistant with GUI
 
 **AURA** is a sleek AI voice/text assistant application built using Python, CustomTkinter, and Groq LLM. It supports natural language understanding, speech recognition, text-to-speech, image analysis, and weather reporting, all wrapped in a beautiful dark/light mode GUI.
 
